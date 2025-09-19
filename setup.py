@@ -45,4 +45,10 @@ setuptools.setup(
             "ExtraCurrencyExchange = extracurrencyexchange.core:ExtraCurrencyExchange"
         ]
     },
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "Operating System :: OS Independent",
+        "Framework :: InvenTree",
+    ],
 )
+
